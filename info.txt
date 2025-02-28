@@ -1,0 +1,12 @@
+{
+  "Name": "Reduced Building Cost",
+  "ID": "reducedBuildingCost",
+  "Author": "ernieIzde8ski",
+  "Description": "Reduces the rate of exponential growth in building cost.",
+  "ModVersion": 1,
+  "GameVersion": 2.048,
+  "Date": "27/02/2025",
+  "AllowSteamAchievs": 1,
+  "Dependencies": [],
+  "Disabled": 0
+}
