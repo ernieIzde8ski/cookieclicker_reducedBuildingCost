@@ -3,7 +3,7 @@ declare namespace Game {
    * Determines the relationship between prestige and cookies.
    * If HCfactor goes up, heavenly cookies become valuable, but harder to obtain.
    *
-   * Default value: 3.
+   * @defaultValue 3
    * */
   let HCfactor: number;
 

@@ -64,6 +64,10 @@ declare namespace Game {
   let AscendZoomT: number;
 
   let storeToRefresh: number;
+  /** Rate of exponential growth in building prices.
+   *
+   * @defaultValue 1.15;
+   **/
   let priceIncrease: number;
   let buyBulk: number;
   /** 1 for buy, -1 for sell. */
